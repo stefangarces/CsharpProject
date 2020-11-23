@@ -10,6 +10,7 @@ namespace Projektet_Csharp
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

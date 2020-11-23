@@ -8,5 +8,6 @@ namespace Projektet_Csharp
 {
     class Operators
     {
+
     }
 }
