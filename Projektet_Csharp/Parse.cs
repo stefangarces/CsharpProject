@@ -11,12 +11,12 @@ namespace Projektet_Csharp
     {
         public static void Parser()
         {
+            Console.WriteLine("Input a value");
+            string input = Console.ReadLine().ToLower();
+            string[] tokens = input.Split(' ');
+
             try
             {
-                Console.WriteLine("Input a value");
-                string input = Console.ReadLine().ToLower();
-                string[] tokens = input.Split(' ');
-
                 if (input.Contains("plus"))
                 {
                     var num1 = Wordtovalue.wordvalue[tokens[0]];
@@ -39,12 +39,16 @@ namespace Projektet_Csharp
 
                     Console.WriteLine(num1 * num2);
                     Console.ReadLine();
-
+                }
+                else
+                {
+                    Console.WriteLine("Invalid format. Try again.");
                 }
             }
-            catch
+            catch (Exception)
             {
-                Console.WriteLine("invalid format. Try again.");
+
+                Console.WriteLine("Invalid format. Try again.");
             }
         }
     }
