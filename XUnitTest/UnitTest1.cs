@@ -1,5 +1,6 @@
 using System;
 using Xunit;
+using Projektet_Csharp;
 
 namespace XUnitTest
 {
@@ -8,7 +9,7 @@ namespace XUnitTest
         [Fact]
         public void Add()
         {
-            Assert.Equal("four", "two plus two");
+            Parse.Parser("four", "two plus two");
         }
         [Fact]
         public void Sub()

@@ -1,7 +1,6 @@
 C:\Users\stefa\source\repos\Projektet_Csharp\Projektet_Csharp\bin\Debug\Projektet_Csharp.exe.config
 C:\Users\stefa\source\repos\Projektet_Csharp\Projektet_Csharp\bin\Debug\Projektet_Csharp.exe
 C:\Users\stefa\source\repos\Projektet_Csharp\Projektet_Csharp\bin\Debug\Projektet_Csharp.pdb
-C:\Users\stefa\source\repos\Projektet_Csharp\Projektet_Csharp\obj\Debug\Projektet_Csharp.csprojAssemblyReference.cache
 C:\Users\stefa\source\repos\Projektet_Csharp\Projektet_Csharp\obj\Debug\Projektet_Csharp.csproj.CoreCompileInputs.cache
 C:\Users\stefa\source\repos\Projektet_Csharp\Projektet_Csharp\obj\Debug\Projektet_Csharp.exe
 C:\Users\stefa\source\repos\Projektet_Csharp\Projektet_Csharp\obj\Debug\Projektet_Csharp.pdb

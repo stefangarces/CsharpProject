@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30709.132
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projektet_Csharp", "Projektet_Csharp\Projektet_Csharp.csproj", "{C827F736-DF01-4F4B-928E-F2CAB597B867}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTest", "XUnitTest\XUnitTest.csproj", "{D5A92EAD-D4E1-4321-B700-5487F162DC72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XUnitTest", "XUnitTest\XUnitTest.csproj", "{5C72BCF5-0851-4587-86BD-6D53D224EEE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{C827F736-DF01-4F4B-928E-F2CAB597B867}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C827F736-DF01-4F4B-928E-F2CAB597B867}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C827F736-DF01-4F4B-928E-F2CAB597B867}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D5A92EAD-D4E1-4321-B700-5487F162DC72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D5A92EAD-D4E1-4321-B700-5487F162DC72}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D5A92EAD-D4E1-4321-B700-5487F162DC72}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D5A92EAD-D4E1-4321-B700-5487F162DC72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C72BCF5-0851-4587-86BD-6D53D224EEE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C72BCF5-0851-4587-86BD-6D53D224EEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C72BCF5-0851-4587-86BD-6D53D224EEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C72BCF5-0851-4587-86BD-6D53D224EEE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

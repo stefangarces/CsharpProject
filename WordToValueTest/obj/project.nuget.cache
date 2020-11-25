@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G4TmEnDWx8EpCRzqgdUFsXGyGn6nQTrAHE3oUVIH7uMrvKBsPW2c25XmquGUjCDk9kKjQdAnQnb0qJSqB13ufQ==",
+  "dgSpecHash": "kNYc6O9SDxoIqbLqUitoEqSwgNdxZFRZ91YJBpmgarYJvs5DhyVblHQmk10Fy5QVfjWq/NnbDWf8DymUOrtteA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stefa\\source\\repos\\Projektet_Csharp\\XUnitTest\\XUnitTest.csproj",
+  "projectFilePath": "C:\\Users\\stefa\\source\\repos\\Projektet_Csharp\\WordToValueTest\\WordToValueTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stefa\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\stefa\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

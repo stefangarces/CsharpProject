@@ -19,8 +19,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Projektet_Csharp\Projektet_Csharp.csproj" />
-  </ItemGroup>
-
 </Project>
