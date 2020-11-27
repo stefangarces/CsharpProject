@@ -17,6 +17,9 @@ namespace Projektet_Csharp
 
             try
             {
+                // If statement to find the operators "plus", "minus" and "times"
+                // and also to send the user to "Invalid Format", if the user doesn't
+                // use the right format ("four minus one" e.g.)
                 if (input.Contains("plus"))
                 {
                     var num1 = Wordtovalue.wordvalue[tokens[0]];
@@ -30,7 +33,6 @@ namespace Projektet_Csharp
                     var num2 = Wordtovalue.wordvalue[tokens[2]];
 
                     Console.WriteLine(num1 - num2);
-                    Console.ReadLine();
                 }
                 else if (input.Contains("times"))
                 {
@@ -38,7 +40,6 @@ namespace Projektet_Csharp
                     var num2 = Wordtovalue.wordvalue[tokens[2]];
 
                     Console.WriteLine(num1 * num2);
-                    Console.ReadLine();
                 }
                 else
                 {
@@ -54,6 +55,7 @@ namespace Projektet_Csharp
     }
     public class Wordtovalue
     {
+        // Turns words into value
         public static Dictionary<string, int> wordvalue = new Dictionary<string, int>()
         {
             { "one", 1 },
