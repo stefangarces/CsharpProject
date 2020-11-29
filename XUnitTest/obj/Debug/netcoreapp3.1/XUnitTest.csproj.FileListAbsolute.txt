@@ -95,3 +95,6 @@ C:\Users\stefa\source\repos\Projektet_Csharp\XUnitTest\obj\Debug\netcoreapp3.1\X
 C:\Users\stefa\source\repos\Projektet_Csharp\XUnitTest\obj\Debug\netcoreapp3.1\XUnitTest.dll
 C:\Users\stefa\source\repos\Projektet_Csharp\XUnitTest\obj\Debug\netcoreapp3.1\XUnitTest.pdb
 C:\Users\stefa\source\repos\Projektet_Csharp\XUnitTest\obj\Debug\netcoreapp3.1\XUnitTest.genruntimeconfig.cache
+C:\Users\stefa\source\repos\Projektet_Csharp\XUnitTest\bin\Debug\netcoreapp3.1\Projektet_Csharp.exe
+C:\Users\stefa\source\repos\Projektet_Csharp\XUnitTest\bin\Debug\netcoreapp3.1\Projektet_Csharp.pdb
+C:\Users\stefa\source\repos\Projektet_Csharp\XUnitTest\bin\Debug\netcoreapp3.1\Projektet_Csharp.exe.config
