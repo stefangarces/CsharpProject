@@ -17,7 +17,7 @@ namespace Projektet_Csharp
             * that OF COURSE I can't Parse a "two" string the same way as a string "2".
             * Then I made the Dictionary instead and got the value from string to int.
             */
-            Console.WriteLine("Input a value");
+            Console.WriteLine("Write an mathematical expression. (Like 'one plus four'):");
             string input = Console.ReadLine().ToLower();
             string[] tokens = input.Split(' ');
 
